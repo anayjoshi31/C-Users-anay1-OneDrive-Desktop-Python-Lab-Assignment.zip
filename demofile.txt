@@ -1,4 +1,0 @@
-Hello,
-friends this.
-My name is Anay Joshi
-Now the file has more content!
